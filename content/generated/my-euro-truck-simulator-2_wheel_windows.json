@@ -1,0 +1,185 @@
+{
+    "name" : "My Euro Truck Simulator 2",
+    "version" : "Wheel",
+    "os" : "windows",
+    "mods_used" : [],
+    "default_context" : "Truck Controls",
+    "contexts" : {
+        "Controls" : {
+            "B" : [
+                {"name":"Exhaust Brake", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Cruise Control", "mods":[]}
+            ],
+            "CONTROL" : [
+                {"name":"Shift Down", "mods":[]}
+            ],
+            "E" : [
+                {"name":"Start/Stop Engine", "mods":[]}
+            ],
+            "EIGHT" : [
+                {"name":"Drive-By Camera", "mods":[]}
+            ],
+            "ENTER" : [
+                {"name":"Activate", "mods":[]}
+            ],
+            "ESCAPE" : [
+                {"name":"Menu", "mods":[]}
+            ],
+            "F" : [
+                {"name":"Hazard Warning", "mods":[]}
+            ],
+            "F1" : [
+                {"name":"Route Advisor Mouse Control", "mods":[]}
+            ],
+            "F10" : [
+                {"name":"Screenshot", "mods":[]}
+            ],
+            "F2" : [
+                {"name":"Show/Hide Side Mirrors On-Screen", "mods":[]}
+            ],
+            "F3" : [
+                {"name":"Route Advisor Modes", "mods":[]}
+            ],
+            "F4" : [
+                {"name":"Truck Adjustment", "mods":[]}
+            ],
+            "F5" : [
+                {"name":"Route Advisor Navigation Page", "mods":[]}
+            ],
+            "F6" : [
+                {"name":"Route Advisor Job Info Page", "mods":[]}
+            ],
+            "F7" : [
+                {"name":"Route Advisor Diagnostics Page", "mods":[]}
+            ],
+            "F8" : [
+                {"name":"Route Advisor Info Page", "mods":[]}
+            ],
+            "FIVE" : [
+                {"name":"Lean Out Camera", "mods":[]}
+            ],
+            "FOUR" : [
+                {"name":"Roof Camera", "mods":[]}
+            ],
+            "G" : [
+                {"name":"Garage Manager", "mods":[]}
+            ],
+            "H" : [
+                {"name":"Horn", "mods":[]}
+            ],
+            "I" : [
+                {"name":"Dashboard Display Mode", "mods":[]}
+            ],
+            "J" : [
+                {"name":"Light Horn", "mods":[]}
+            ],
+            "K" : [
+                {"name":"High Beam Headlights", "mods":[]}
+            ],
+            "L" : [
+                {"name":"Light Modes", "mods":[]}
+            ],
+            "LEFT_BRACKET" : [
+                {"name":"Left-Turn Indicator", "mods":[]}
+            ],
+            "M" : [
+                {"name":"World Map", "mods":[]}
+            ],
+            "N" : [
+                {"name":"Air Horn", "mods":[]}
+            ],
+            "NINE" : [
+                {"name":"Next Camera", "mods":[]}
+            ],
+            "NUMPAD_ASTERISK" : [
+                {"name":"Look Right", "mods":[]}
+            ],
+            "NUMPAD_EIGHT" : [
+                {"name":"Drive-By Camera", "mods":[]}
+            ],
+            "NUMPAD_FIVE" : [
+                {"name":"Lean Out Camera", "mods":[]}
+            ],
+            "NUMPAD_FOUR" : [
+                {"name":"Roof Camera", "mods":[]}
+            ],
+            "NUMPAD_NINE" : [
+                {"name":"Next Camera", "mods":[]}
+            ],
+            "NUMPAD_ONE" : [
+                {"name":"Interior Camera", "mods":[]}
+            ],
+            "NUMPAD_SEVEN" : [
+                {"name":"On-Wheel Camera", "mods":[]}
+            ],
+            "NUMPAD_SIX" : [
+                {"name":"Bumper Camera", "mods":[]}
+            ],
+            "NUMPAD_SLASH" : [
+                {"name":"Look Left", "mods":[]}
+            ],
+            "NUMPAD_THREE" : [
+                {"name":"Top-Down Camera", "mods":[]}
+            ],
+            "NUMPAD_TWO" : [
+                {"name":"Chasing Camera", "mods":[]}
+            ],
+            "NUMPAD_ZERO" : [
+                {"name":"Route Advisor Next Page", "mods":[]}
+            ],
+            "O" : [
+                {"name":"Beacon", "mods":[]}
+            ],
+            "ONE" : [
+                {"name":"Interior Camera", "mods":[]}
+            ],
+            "P" : [
+                {"name":"Wipers", "mods":[]}
+            ],
+            "PAUSE_BREAK" : [
+                {"name":"Route Advisor Mouse Control ", "mods":[]}
+            ],
+            "R" : [
+                {"name":"Audio Player", "mods":[]}
+            ],
+            "RIGHT_BRACKET" : [
+                {"name":"Right-Turn Indicator", "mods":[]}
+            ],
+            "SCROLL_LOCK" : [
+                {"name":"Quick Save", "mods":[]}
+            ],
+            "SEMICOLON" : [
+                {"name":"Retarder Increase", "mods":[]}
+            ],
+            "SEVEN" : [
+                {"name":"On-Wheel Camera", "mods":[]}
+            ],
+            "SHIFT" : [
+                {"name":"Shift Up", "mods":[]}
+            ],
+            "SINGLE_QUOTE" : [
+                {"name":"Retarder Decrease", "mods":[]}
+            ],
+            "SIX" : [
+                {"name":"Bumper Camera", "mods":[]}
+            ],
+            "SPACE" : [
+                {"name":"Parking Brake", "mods":[]}
+            ],
+            "T" : [
+                {"name":"Trailer Attach/Detach", "mods":[]}
+            ],
+            "THREE" : [
+                {"name":"Top-Down Camera", "mods":[]}
+            ],
+            "TWO" : [
+                {"name":"Chasing Camera", "mods":[]}
+            ],
+            "U" : [
+                {"name":"Lift/Drop Axle", "mods":[]}
+            ]
+        }
+    }
+}

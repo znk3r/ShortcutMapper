@@ -56,7 +56,7 @@ cd ShortcutMapper/
 virtualenv -p /usr/bin/python3 _venv
 
 # Activate environment
-source _venv/bin/activate
+source _venv/Scripts/activate
 pip install BeautifulSoup4
 
 # Do an export

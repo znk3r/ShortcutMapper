@@ -148,6 +148,14 @@ var sitedata_apps = [
         }
     },
     {
+        name: "My Euro Truck Simulator 2",
+        data: {
+            "Wheel": {
+                "windows": "my-euro-truck-simulator-2_wheel_windows.json",
+            },
+        }
+    },
+    {
         name: "SideFx Houdini",
         data: {
             "v15.5": {
