@@ -1,12 +1,8 @@
-ShortcutMapper
+My Shortcut Cheatsheet
 ==================
 
 This is a keyboard shortcuts visualiser hosted here on Github:
-http://waldobronchart.github.io/ShortcutMapper/
-
-The goal of this project is to map out application keyboard shortcuts onto a virtual keyboard, making it easy to find and learn new shortcuts. The shortcut data is scraped from online documentation to reduce error and to keep the data easy to update with newer versions.
-
-![Imgur](http://waldobronchart.github.io/ShortcutMapper/content/images/overview.gif)
+https://znk3r.github.io/ShortcutMapper/
 
 # Overview
 
